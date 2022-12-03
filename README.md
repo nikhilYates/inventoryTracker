@@ -1,4 +1,4 @@
 # inventoryTracker
-# Development for simple warehouse inventory tracking using a label scanner and database
-# Front end to be done in android studio, optimizing for mobile use
+# Development for a construction warehouse inventory management system
+# Front-end to be done in android studio, targeting mobile use
 # Functional limitations are balanced by streamlining usability
